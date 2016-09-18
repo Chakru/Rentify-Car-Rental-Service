@@ -1,0 +1,108 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 07 Sep 2016 23:28:35 at http://rentify.uouapps.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://rentify.uouapps.com/ -O1 "C:\Users\Abhishek Chakravarty\Desktop\ds\ds" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:36:28	Error: 	"Not Found" (404) at link rentify.uouapps.com/wp-content/themes/rentify/assets/css/grabbing.png (from rentify.uouapps.com/wp-content/themes/rentify/assets/css/owl.carousel.css?ver=4.6)
+23:36:28	Warning: 	File not parsed, looks like binary: rentify.uouapps.com/wp-content/themes/rentify/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+23:36:29	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2050
+23:36:29	Warning: 	File has moved from rentify.uouapps.com/?p=2050 to http://rentify.uouapps.com/search/
+23:36:29	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2053
+23:36:29	Warning: 	File has moved from rentify.uouapps.com/?p=2053 to http://rentify.uouapps.com/modify-reservation/
+23:36:31	Error: 	"Not Found" (404) at link rentify.uouapps.com/modify-reservation/POST (from rentify.uouapps.com/modify-reservation/)
+23:36:31	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2047
+23:36:31	Warning: 	File has moved from rentify.uouapps.com/?p=2047 to http://rentify.uouapps.com/car-listings/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/car-listings/POST (from rentify.uouapps.com/car-listings/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=201
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=201 to http://rentify.uouapps.com/cars/mazda-6/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/mazda-6/POST (from rentify.uouapps.com/cars/mazda-6/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com//cars/
+23:36:32	Warning: 	File has moved from rentify.uouapps.com//cars/ to http://rentify.uouapps.com/company/cars-in-fleet/
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2051
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=2051 to http://rentify.uouapps.com/car-availability-2/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/car-availability-2/POST (from rentify.uouapps.com/car-availability-2/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2052
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=2052 to http://rentify.uouapps.com/extras-availability/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/extras-availability/POST (from rentify.uouapps.com/extras-availability/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2048
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=2048 to http://rentify.uouapps.com/pricing-system/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/pricing-system/POST (from rentify.uouapps.com/pricing-system/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2049
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=2049 to http://rentify.uouapps.com/extras-pricing/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/extras-pricing/POST (from rentify.uouapps.com/extras-pricing/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2054
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=2054 to http://rentify.uouapps.com/about-us-2/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/about-us-2/POST (from rentify.uouapps.com/about-us-2/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2055
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=2055 to http://rentify.uouapps.com/faq-2/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/faq-2/POST (from rentify.uouapps.com/faq-2/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=2056
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=2056 to http://rentify.uouapps.com/contact-us/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/contact-us/POST (from rentify.uouapps.com/contact-us/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=193
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=193 to http://rentify.uouapps.com/cars/suzuki-alto/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/suzuki-alto/POST (from rentify.uouapps.com/cars/suzuki-alto/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=231
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=231 to http://rentify.uouapps.com/cars/ford-fiesta/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/ford-fiesta/POST (from rentify.uouapps.com/cars/ford-fiesta/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=192
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=192 to http://rentify.uouapps.com/cars/peugeot-207/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/peugeot-207/POST (from rentify.uouapps.com/cars/peugeot-207/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=228
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=228 to http://rentify.uouapps.com/cars/kia-ceed/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/kia-ceed/POST (from rentify.uouapps.com/cars/kia-ceed/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=199
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=199 to http://rentify.uouapps.com/cars/opel-astra-sport-tourer/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/opel-astra-sport-tourer/POST (from rentify.uouapps.com/cars/opel-astra-sport-tourer/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=200
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=200 to http://rentify.uouapps.com/cars/opel-insignia/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/opel-insignia/POST (from rentify.uouapps.com/cars/opel-insignia/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=230
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=230 to http://rentify.uouapps.com/cars/nissan-qashqai2/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/nissan-qashqai2/POST (from rentify.uouapps.com/cars/nissan-qashqai2/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=197
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=197 to http://rentify.uouapps.com/cars/citroen-c5/
+23:36:32	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/citroen-c5/POST (from rentify.uouapps.com/cars/citroen-c5/)
+23:36:32	Warning: 	Moved Permanently for rentify.uouapps.com/?p=204
+23:36:32	Warning: 	File has moved from rentify.uouapps.com/?p=204 to http://rentify.uouapps.com/cars/nissan-qashqai/
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/nissan-qashqai/POST (from rentify.uouapps.com/cars/nissan-qashqai/)
+23:36:33	Warning: 	Moved Permanently for rentify.uouapps.com/?p=229
+23:36:33	Warning: 	File has moved from rentify.uouapps.com/?p=229 to http://rentify.uouapps.com/cars/vwtouareg/
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/vwtouareg/POST (from rentify.uouapps.com/cars/vwtouareg/)
+23:36:33	Warning: 	Moved Permanently for rentify.uouapps.com/?p=196
+23:36:33	Warning: 	File has moved from rentify.uouapps.com/?p=196 to http://rentify.uouapps.com/cars/audi-a6/
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/audi-a6/POST (from rentify.uouapps.com/cars/audi-a6/)
+23:36:33	Warning: 	Moved Permanently for rentify.uouapps.com/?p=203
+23:36:33	Warning: 	File has moved from rentify.uouapps.com/?p=203 to http://rentify.uouapps.com/cars/mercedes-ml350/
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/mercedes-ml350/POST (from rentify.uouapps.com/cars/mercedes-ml350/)
+23:36:33	Warning: 	Moved Permanently for rentify.uouapps.com/?p=194
+23:36:33	Warning: 	File has moved from rentify.uouapps.com/?p=194 to http://rentify.uouapps.com/cars/opel-vivaro/
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/opel-vivaro/POST (from rentify.uouapps.com/cars/opel-vivaro/)
+23:36:33	Warning: 	Moved Permanently for rentify.uouapps.com/?p=195
+23:36:33	Warning: 	File has moved from rentify.uouapps.com/?p=195 to http://rentify.uouapps.com/cars/peugeot-boxer/
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/cars/peugeot-boxer/POST (from rentify.uouapps.com/cars/peugeot-boxer/)
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/2016/09/ (from rentify.uouapps.com/search/POST)
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/2016/08/ (from rentify.uouapps.com/search/POST)
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/2016/07/ (from rentify.uouapps.com/search/POST)
+23:36:33	Error: 	"Not Found" (404) at link rentify.uouapps.com/2016/06/ (from rentify.uouapps.com/search/POST)
+23:37:40	Warning: 	Moved Permanently for rentify.uouapps.com/?p=1869
+23:37:40	Warning: 	File has moved from rentify.uouapps.com/?p=1869 to http://rentify.uouapps.com/company/cars-in-fleet/
+23:37:40	Error: 	"Not Found" (404) at link rentify.uouapps.com/company/cars-in-fleet/POST (from rentify.uouapps.com/company/cars-in-fleet/)
+23:37:40	Warning: 	Moved Permanently for rentify.uouapps.com//company/
+23:37:40	Warning: 	Redirected link is identical because of 'URL Hack' option: rentify.uouapps.com//company/ and rentify.uouapps.com/company/
+23:37:40	Warning: 	File has moved from rentify.uouapps.com//company/ to http://rentify.uouapps.com/company/
+23:37:44	Warning: 	Moved Permanently for rentify.uouapps.com/?p=48
+23:37:44	Warning: 	File has moved from rentify.uouapps.com/?p=48 to http://rentify.uouapps.com/norwegians-take-united-for-a-ride/
+23:37:44	Error: 	"Not Found" (404) at link rentify.uouapps.com/norwegians-take-united-for-a-ride/POST (from rentify.uouapps.com/norwegians-take-united-for-a-ride/)
+23:37:47	Warning: 	Moved Permanently for rentify.uouapps.com/?p=49
+23:37:47	Warning: 	File has moved from rentify.uouapps.com/?p=49 to http://rentify.uouapps.com/why-booking-a-rental-car-upfront-is-better/
+23:37:47	Error: 	"Not Found" (404) at link rentify.uouapps.com/why-booking-a-rental-car-upfront-is-better/POST (from rentify.uouapps.com/why-booking-a-rental-car-upfront-is-better/)
+23:37:54	Warning: 	Moved Permanently for rentify.uouapps.com/?p=47
+23:37:54	Warning: 	File has moved from rentify.uouapps.com/?p=47 to http://rentify.uouapps.com/lorem-ipsum-dolor-sit-amet-consectetur/
+23:37:54	Error: 	"Not Found" (404) at link rentify.uouapps.com/lorem-ipsum-dolor-sit-amet-consectetur/POST (from rentify.uouapps.com/lorem-ipsum-dolor-sit-amet-consectetur/)
+
+HTTrack Website Copier/3.48-22 mirror complete in 9 minutes 23 seconds : 463 links scanned, 398 files written (14158601 bytes overall) [10493639 bytes received at 18638 bytes/sec], 5951698 bytes transferred using HTTP compression in 215 files, ratio 19%
+(33 errors, 64 warnings, 0 messages)
